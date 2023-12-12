@@ -1,0 +1,23 @@
+{
+  "name": "weather-bot",
+  "version": "1.0.0",
+  "description": "A discord bot that posts the weather in Glasgow University",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Firecracker123/Weather-Bot.git"
+  },
+  "author": "Aidan Innes Bush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Firecracker123/Weather-Bot/issues"
+  },
+  "homepage": "https://github.com/Firecracker123/Weather-Bot#readme",
+  "dependencies": {
+    "cron": "^3.0.0",
+    "discord.js": "^14.13.0"
+  }
+}
